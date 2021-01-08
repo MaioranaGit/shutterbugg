@@ -1,0 +1,72 @@
+/* Shutterbugg bootstrap Project Stylesheet 12/22/2020 */
+/*font-family: 'Bungee Inline', cursive;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Righteous', cursive;*/
+
+div.container {
+	max-width: 1000px;
+}
+
+div.main {
+	background-image: url("../images/intro.jpg"); height: 500px; background-size: cover;
+	background-attachment: fixed;
+	padding-top: 5%;
+}
+
+div.main h1 {
+	font-family: 'Righteous', cursive;
+	font-size: 3.5em; text-shadow: gray 4px 2px 3px;
+}
+
+div.main h2 {
+	font-family: 'Julius Sans One', sans-serif;
+	margin-bottom: 3%;
+}
+
+div.main a.btn {
+	background-color: lightgray; 
+	font-size: 1.5em;
+	color: black;
+	padding: 1% 5%;
+	border-radius: 30px;
+}
+
+div.section {
+	padding-top: 3%;
+}
+
+div.row h1 {
+	font-family: 'Bungee Inline', cursive;
+}
+
+div.row p {
+	font-family: 'Righteous', cursive;
+	font-size: 2.0em;
+	text-shadow: gray 1px 1.5px 2px;
+}
+
+div#store {
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	border-bottom: 2px solid gray;
+}
+
+div.footer h1 {
+	font-family: 1.75em;
+	background-color: white;
+	
+	
+}
+
+div.footer ul {
+	list-style-type: none;
+	padding-left: 0;
+	background-color: white;
+
+}
+div.footer {
+	background-image: url("../images/intro.jpg"); height: 500px; background-size: cover;
+	background-attachment: fixed;
+	padding-top: 5%;
+}
